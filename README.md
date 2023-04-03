@@ -1,0 +1,11 @@
+# 儿童摄影html单页
+## 本页面是一个单页的html页面
+### 涉及的知识：
+- html
+- css
+1. 如果有任何问题可以联系我们的邮箱：liaonjinyou@agety.cn
+2. 本页面只是涉及学习交流，禁止用于商业
+3. 想要了解更多问题请移步-->[金友笔记](http://agety.cn)
+> author:廖金友
+> time:2023-4-3
+> contact:ljyyyds520@163.com
